@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicExample", "BasicExample\BasicExample.csproj", "{1965AB36-05CD-44D6-8FD9-5BC90CEB543A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYear_ROP", "LeapYear_ROP\LeapYear_ROP.csproj", "{AFC6FE71-B45B-4B0D-91BF-72FE2D5E5D09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapYear_ROP.Tests", "LeapYear_ROP.Tests\LeapYear_ROP.Tests.csproj", "{E1C92F95-BCEC-43B2-BB89-0FCD56F93099}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{1965AB36-05CD-44D6-8FD9-5BC90CEB543A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1965AB36-05CD-44D6-8FD9-5BC90CEB543A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1965AB36-05CD-44D6-8FD9-5BC90CEB543A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFC6FE71-B45B-4B0D-91BF-72FE2D5E5D09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFC6FE71-B45B-4B0D-91BF-72FE2D5E5D09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFC6FE71-B45B-4B0D-91BF-72FE2D5E5D09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFC6FE71-B45B-4B0D-91BF-72FE2D5E5D09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1C92F95-BCEC-43B2-BB89-0FCD56F93099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C92F95-BCEC-43B2-BB89-0FCD56F93099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C92F95-BCEC-43B2-BB89-0FCD56F93099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C92F95-BCEC-43B2-BB89-0FCD56F93099}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
